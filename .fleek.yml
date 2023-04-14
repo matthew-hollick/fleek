@@ -25,8 +25,8 @@ packages:
     - atuin
     - tfswitch
     - virtualenv
-    - micromamba
-    - pew
+    - micromamba 
+    - pew # Tools to manage multiple virtualenvs written in pure python
 paths:
     - $HOME/bin
     - $HOME/.local/bin
