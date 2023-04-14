@@ -30,6 +30,7 @@
     pkgs.silver-searcher
     pkgs.atuin
     pkgs.tfswitch
+    pkgs.virtualenv
     # Fleek Bling
     pkgs.git
     pkgs.htop

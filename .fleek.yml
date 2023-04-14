@@ -24,6 +24,7 @@ packages:
     - silver-searcher
     - atuin
     - tfswitch
+    - virtualenv
 paths:
     - $HOME/bin
     - $HOME/.local/bin
