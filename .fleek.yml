@@ -24,9 +24,6 @@ packages:
     - silver-searcher
     - atuin
     - tfswitch
-    - python310
-    - python311
-    - python312
 paths:
     - $HOME/bin
     - $HOME/.local/bin
