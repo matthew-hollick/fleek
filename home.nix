@@ -29,6 +29,7 @@
     pkgs.go
     pkgs.silver-searcher
     pkgs.atuin
+    pkgs.tfswitch
     # Fleek Bling
     pkgs.git
     pkgs.htop

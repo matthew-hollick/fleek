@@ -23,6 +23,7 @@ packages:
     - go
     - silver-searcher
     - atuin
+    - tfswitch
 paths:
     - $HOME/bin
     - $HOME/.local/bin
