@@ -4,7 +4,6 @@
   # add your personalized program configuration in ./user.nix   
 
   # Bling supplied programs 
-    programs.direnv.enable = true; 
     programs.starship.enable = true;
 
   # User specified programs 
