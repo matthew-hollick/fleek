@@ -30,7 +30,9 @@
     pkgs.silver-searcher
     pkgs.atuin
     pkgs.tfswitch
-    pkgs.python3-3.9.16
+    pkgs.python310
+    pkgs.python311
+    pkgs.python312
     # Fleek Bling
     pkgs.git
     pkgs.htop
