@@ -26,6 +26,7 @@ packages:
     - tfswitch
     - virtualenv
     - micromamba
+    - pew
 paths:
     - $HOME/bin
     - $HOME/.local/bin

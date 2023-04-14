@@ -32,6 +32,7 @@
     pkgs.tfswitch
     pkgs.virtualenv
     pkgs.micromamba
+    pkgs.pew
     # Fleek Bling
     pkgs.git
     pkgs.htop
