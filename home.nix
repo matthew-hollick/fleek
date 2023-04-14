@@ -31,6 +31,7 @@
     pkgs.atuin
     pkgs.tfswitch
     pkgs.virtualenv
+    pkgs.micromamba
     # Fleek Bling
     pkgs.git
     pkgs.htop

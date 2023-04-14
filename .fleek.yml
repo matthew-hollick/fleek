@@ -25,6 +25,7 @@ packages:
     - atuin
     - tfswitch
     - virtualenv
+    - micromamba
 paths:
     - $HOME/bin
     - $HOME/.local/bin
