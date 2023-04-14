@@ -1,0 +1,43 @@
+aliases:
+    fleeks: cd /Users/mjh/.local/share/fleek
+bling: low
+ejected: false
+flakedir: .local/share/fleek
+git:
+    autocommit: false
+    autopull: false
+    autopush: false
+    enabled: false
+name: Fleek Configuration
+packages:
+    - helix
+    - sbt
+    - aws-assume-role
+    - awscli
+    - awslogs
+    - awsls
+    - steampipe
+    - python3
+    - go
+    - silver-searcher
+    - atuin
+paths:
+    - $HOME/bin
+    - $HOME/.local/bin
+    - $HOME/bin
+    - /opt/homebrew/bin
+    - /opt/homebrew/sbin
+programs:
+    - dircolors
+    - exa
+    - bat
+    - zoxide
+    - direnv
+    - neovim
+shell: zsh
+systems:
+    - arch: aarch64
+      hostname: trillian
+      os: darwin
+      username: mjh
+unfree: true
