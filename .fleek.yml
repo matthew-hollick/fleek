@@ -1,6 +1,7 @@
 aliases:
     fleeks: cd /Users/mjh/.local/share/fleek
     cat: bat
+    ls: exa
 bling: low
 ejected: false
 flakedir: .local/share/fleek
