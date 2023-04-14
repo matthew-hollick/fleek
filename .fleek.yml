@@ -1,6 +1,6 @@
 aliases:
-    fleeks: cd /Users/mjh/.local/share/fleek
     cat: bat
+    fleeks: cd /Users/mjh/.local/share/fleek
     ls: exa
 bling: low
 ejected: false
@@ -23,6 +23,7 @@ packages:
     - go
     - silver-searcher
     - atuin
+    - mtr
 paths:
     - $HOME/bin
     - $HOME/.local/bin
