@@ -23,7 +23,6 @@ packages:
     - go
     - silver-searcher
     - atuin
-    - mtr
 paths:
     - $HOME/bin
     - $HOME/.local/bin
