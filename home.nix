@@ -34,6 +34,12 @@
     pkgs.micromamba
     pkgs.pew
     pkgs.tgswitch
+    pkgs.kubecolor
+    pkgs.kubectl
+    pkgs.kubectl-tree
+    pkgs.krew
+    pkgs.kubectl-gadget
+    pkgs.kubectl-evict-pod
     # Fleek Bling
     pkgs.git
     pkgs.htop

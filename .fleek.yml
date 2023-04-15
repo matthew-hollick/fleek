@@ -28,6 +28,12 @@ packages:
     - micromamba
     - pew
     - tgswitch
+    - kubecolor
+    - kubectl
+    - kubectl-tree
+    - krew
+    - kubectl-gadget
+    - kubectl-evict-pod
 paths:
     - $HOME/bin
     - $HOME/.local/bin
