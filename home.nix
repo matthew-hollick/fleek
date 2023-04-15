@@ -40,6 +40,7 @@
     pkgs.krew
     pkgs.kubectl-gadget
     pkgs.kubectl-evict-pod
+    pkgs.clusterctl
     # Fleek Bling
     pkgs.git
     pkgs.htop

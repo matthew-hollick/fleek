@@ -34,6 +34,7 @@ packages:
     - krew
     - kubectl-gadget
     - kubectl-evict-pod
+    - clusterctl
 paths:
     - $HOME/bin
     - $HOME/.local/bin
