@@ -36,6 +36,7 @@ packages:
     - kubectl-evict-pod
     - clusterctl
     - talosctl
+    - nmap
 paths:
     - $HOME/bin
     - $HOME/.local/bin
