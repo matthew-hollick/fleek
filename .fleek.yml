@@ -35,6 +35,7 @@ packages:
     - kubectl-gadget
     - kubectl-evict-pod
     - clusterctl
+    - talosctl
 paths:
     - $HOME/bin
     - $HOME/.local/bin

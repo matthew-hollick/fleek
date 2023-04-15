@@ -41,6 +41,7 @@
     pkgs.kubectl-gadget
     pkgs.kubectl-evict-pod
     pkgs.clusterctl
+    pkgs.talosctl
     # Fleek Bling
     pkgs.git
     pkgs.htop
