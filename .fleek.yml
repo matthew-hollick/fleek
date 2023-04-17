@@ -37,6 +37,7 @@ packages:
     - clusterctl
     - talosctl
     - nmap
+    - mlocate
 paths:
     - $HOME/bin
     - $HOME/.local/bin
