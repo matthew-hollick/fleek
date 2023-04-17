@@ -43,6 +43,7 @@
     pkgs.clusterctl
     pkgs.talosctl
     pkgs.nmap
+    pkgs.pre-commit
     # Fleek Bling
     pkgs.git
     pkgs.htop

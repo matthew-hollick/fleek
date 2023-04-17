@@ -1,6 +1,7 @@
 aliases:
     cat: bat
     fleeks: cd /Users/mjh/.local/share/fleek
+    gitsub: git submodule update --init --recursive
     ls: exa
 bling: low
 ejected: false
@@ -37,6 +38,7 @@ packages:
     - clusterctl
     - talosctl
     - nmap
+    - pre-commit
 paths:
     - $HOME/bin
     - $HOME/.local/bin
