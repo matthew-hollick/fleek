@@ -43,7 +43,6 @@
     pkgs.clusterctl
     pkgs.talosctl
     pkgs.nmap
-    pkgs.mlocate
     # Fleek Bling
     pkgs.git
     pkgs.htop
