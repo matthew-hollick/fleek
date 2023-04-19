@@ -47,6 +47,10 @@
     pkgs.docker
     pkgs.docker-compose
     pkgs.xquartz
+    pkgs.podman
+    pkgs.podman-compose
+    pkgs.podman-tui
+    pkgs.podman-desktop
     # Fleek Bling
     pkgs.git
     pkgs.htop
