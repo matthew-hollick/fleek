@@ -44,6 +44,7 @@
     pkgs.talosctl
     pkgs.nmap
     pkgs.pre-commit
+    pkgs.docker
     # Fleek Bling
     pkgs.git
     pkgs.htop

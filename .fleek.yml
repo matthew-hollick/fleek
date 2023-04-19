@@ -39,6 +39,7 @@ packages:
     - talosctl
     - nmap
     - pre-commit
+    - docker
 paths:
     - $HOME/bin
     - $HOME/.local/bin
