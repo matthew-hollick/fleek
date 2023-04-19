@@ -41,6 +41,7 @@ packages:
     - pre-commit
     - docker
     - docker-compose
+    - xquartz
 paths:
     - $HOME/bin
     - $HOME/.local/bin

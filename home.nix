@@ -46,6 +46,7 @@
     pkgs.pre-commit
     pkgs.docker
     pkgs.docker-compose
+    pkgs.xquartz
     # Fleek Bling
     pkgs.git
     pkgs.htop
