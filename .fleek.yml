@@ -45,7 +45,6 @@ packages:
     - podman
     - podman-compose
     - podman-tui
-    - podman-desktop
 paths:
     - $HOME/bin
     - $HOME/.local/bin
