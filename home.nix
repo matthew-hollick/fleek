@@ -45,6 +45,7 @@
     pkgs.nmap
     pkgs.pre-commit
     pkgs.docker
+    pkgs.docker-compose
     # Fleek Bling
     pkgs.git
     pkgs.htop

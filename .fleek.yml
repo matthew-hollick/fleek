@@ -40,6 +40,7 @@ packages:
     - nmap
     - pre-commit
     - docker
+    - docker-compose
 paths:
     - $HOME/bin
     - $HOME/.local/bin
