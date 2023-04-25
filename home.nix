@@ -53,6 +53,7 @@
     pkgs.bat
     pkgs.present
     pkgs.get_iplayer
+    pkgs.ffmpeg_6
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })

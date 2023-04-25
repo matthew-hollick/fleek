@@ -49,6 +49,7 @@ packages:
     - bat
     - present
     - get_iplayer
+    - ffmpeg_6
 paths:
     - $HOME/bin
     - $HOME/.local/bin
