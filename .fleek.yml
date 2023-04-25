@@ -52,6 +52,7 @@ packages:
     - ffmpeg_6
     - R
     - bash-my-aws
+    - awstats
 paths:
     - $HOME/bin
     - $HOME/.local/bin

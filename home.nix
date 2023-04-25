@@ -56,6 +56,7 @@
     pkgs.ffmpeg_6
     pkgs.R
     pkgs.bash-my-aws
+    pkgs.awstats
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
