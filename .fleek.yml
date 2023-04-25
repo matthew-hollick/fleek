@@ -3,7 +3,7 @@ aliases:
     gitsub: git submodule update --init --recursive
     ls: exa
     cdsrc: cd ~/src/HMRC
-bling: low
+bling: none
 ejected: false
 flakedir: .local/share/fleek
 git:
