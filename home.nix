@@ -51,6 +51,7 @@
     pkgs.podman-compose
     pkgs.podman-tui
     pkgs.bat
+    pkgs.present
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })

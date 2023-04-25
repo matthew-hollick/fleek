@@ -1,8 +1,8 @@
 aliases:
+    cdsrc: cd ~/src/HMRC
     fleeks: cd /Users/mjh/.local/share/fleek
     gitsub: git submodule update --init --recursive
     ls: exa
-    cdsrc: cd ~/src/HMRC
 bling: none
 ejected: false
 flakedir: .local/share/fleek
@@ -11,6 +11,7 @@ git:
     autopull: true
     autopush: true
     enabled: true
+min_version: ""
 name: Fleek Configuration
 packages:
     - helix
@@ -46,6 +47,7 @@ packages:
     - podman-compose
     - podman-tui
     - bat
+    - present
 paths:
     - $HOME/bin
     - $HOME/.local/bin
@@ -65,3 +67,4 @@ systems:
       os: darwin
       username: mjh
 unfree: true
+users: []
