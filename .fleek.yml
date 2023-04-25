@@ -45,6 +45,7 @@ packages:
     - podman
     - podman-compose
     - podman-tui
+    - bat
 paths:
     - $HOME/bin
     - $HOME/.local/bin
