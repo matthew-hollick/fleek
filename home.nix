@@ -21,7 +21,6 @@
     pkgs.helix
     pkgs.sbt
     pkgs.aws-assume-role
-    pkgs.awscli
     pkgs.awslogs
     pkgs.awsls
     pkgs.steampipe

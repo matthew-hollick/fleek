@@ -17,7 +17,6 @@ packages:
     - helix
     - sbt
     - aws-assume-role
-    - awscli
     - awslogs
     - awsls
     - steampipe
