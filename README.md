@@ -18,8 +18,6 @@ $ apply-{hostname}
 ```
 
 Your actual aliases are listed below:
-    cat = "bat";
-
     cdsrc = "cd ~/src/HMRC";
 
     fleeks = "cd /Users/mjh/.local/share/fleek";

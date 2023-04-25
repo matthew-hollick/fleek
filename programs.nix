@@ -9,7 +9,6 @@
   # User specified programs 
     programs.dircolors.enable = true; 
     programs.exa.enable = true; 
-    programs.bat.enable = true; 
     programs.zoxide.enable = true; 
     programs.direnv.enable = true; 
     programs.neovim.enable = true;

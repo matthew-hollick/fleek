@@ -1,5 +1,4 @@
 aliases:
-    cat: bat
     fleeks: cd /Users/mjh/.local/share/fleek
     gitsub: git submodule update --init --recursive
     ls: exa
@@ -55,7 +54,6 @@ paths:
 programs:
     - dircolors
     - exa
-    - bat
     - zoxide
     - direnv
     - neovim
