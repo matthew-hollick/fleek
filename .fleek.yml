@@ -50,7 +50,7 @@ packages:
     - present
     - get_iplayer
     - ffmpeg_6
-    - rstudio
+    - R
 paths:
     - $HOME/bin
     - $HOME/.local/bin
