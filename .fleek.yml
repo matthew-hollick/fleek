@@ -51,6 +51,7 @@ packages:
     - get_iplayer
     - ffmpeg_6
     - R
+    - bash-my-aws
 paths:
     - $HOME/bin
     - $HOME/.local/bin
