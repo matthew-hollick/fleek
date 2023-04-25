@@ -54,6 +54,7 @@ packages:
     - bash-my-aws
     - awstats
     - aws-rotate-key
+    - awscli2
 paths:
     - $HOME/bin
     - $HOME/.local/bin

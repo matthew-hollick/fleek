@@ -58,6 +58,7 @@
     pkgs.bash-my-aws
     pkgs.awstats
     pkgs.aws-rotate-key
+    pkgs.awscli2
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
