@@ -52,6 +52,7 @@
     pkgs.podman-tui
     pkgs.bat
     pkgs.present
+    pkgs.get_iplayer
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })

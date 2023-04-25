@@ -48,6 +48,7 @@ packages:
     - podman-tui
     - bat
     - present
+    - get_iplayer
 paths:
     - $HOME/bin
     - $HOME/.local/bin
