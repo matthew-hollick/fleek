@@ -53,6 +53,7 @@ packages:
     - R
     - bash-my-aws
     - awstats
+    - aws-rotate-key
 paths:
     - $HOME/bin
     - $HOME/.local/bin
