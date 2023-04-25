@@ -13,6 +13,5 @@
   programs.zoxide.enable = true; 
   programs.direnv.enable = true; 
   programs.starship.enable = true;
-  programs.neovim.coc.enable = true;
 
 }
