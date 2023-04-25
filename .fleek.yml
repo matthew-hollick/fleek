@@ -54,6 +54,7 @@ packages:
     - awstats
     - aws-rotate-key
     - awscli2
+    - gh
 paths:
     - $HOME/bin
     - $HOME/.local/bin
