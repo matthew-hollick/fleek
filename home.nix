@@ -54,6 +54,7 @@
     pkgs.present
     pkgs.get_iplayer
     pkgs.ffmpeg_6
+    pkgs.rstudio
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
