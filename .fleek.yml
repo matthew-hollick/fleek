@@ -55,6 +55,7 @@ packages:
     - aws-rotate-key
     - awscli2
     - gh
+    - tfsec
 paths:
     - $HOME/bin
     - $HOME/.local/bin
