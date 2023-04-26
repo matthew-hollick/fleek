@@ -58,7 +58,6 @@ packages:
     - tfsec
     - nmap-formatter
     - nmap-unfree
-    - redpanda-server
 paths:
     - $HOME/bin
     - $HOME/.local/bin
