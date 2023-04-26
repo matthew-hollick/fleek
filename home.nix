@@ -60,6 +60,8 @@
     pkgs.awscli2
     pkgs.gh
     pkgs.tfsec
+    pkgs.nmap-formatter
+    pkgs.nmap-unfree
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
