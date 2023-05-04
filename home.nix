@@ -1,4 +1,5 @@
 { config, pkgs, misc, ... }: {
+  # DO NOT EDIT: This file is managed by fleek. Manual changes will be overwritten.
   nixpkgs = {
     # Configure your nixpkgs instance
     config = {
@@ -62,6 +63,7 @@
     pkgs.tfsec
     pkgs.nmap-formatter
     pkgs.nmap-unfree
+    pkgs.stdenv
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })

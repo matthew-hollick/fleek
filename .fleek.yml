@@ -13,6 +13,7 @@ git:
     enabled: true
 min_version: ""
 name: Fleek Configuration
+overlays: {}
 packages:
     - helix
     - sbt
@@ -58,6 +59,7 @@ packages:
     - tfsec
     - nmap-formatter
     - nmap-unfree
+    - stdenv
 paths:
     - $HOME/bin
     - $HOME/.local/bin
