@@ -65,6 +65,7 @@
     pkgs.nmap-unfree
     pkgs.stdenv
     pkgs.jq
+    pkgs.terraform-docs
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })

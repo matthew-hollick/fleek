@@ -61,6 +61,7 @@ packages:
     - nmap-unfree
     - stdenv
     - jq
+    - terraform-docs
 paths:
     - $HOME/bin
     - $HOME/.local/bin
