@@ -60,6 +60,7 @@ packages:
     - nmap-formatter
     - nmap-unfree
     - stdenv
+    - jq
 paths:
     - $HOME/bin
     - $HOME/.local/bin

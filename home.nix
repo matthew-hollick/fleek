@@ -64,6 +64,7 @@
     pkgs.nmap-formatter
     pkgs.nmap-unfree
     pkgs.stdenv
+    pkgs.jq
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
