@@ -18,16 +18,14 @@
   programs.gh = {
       enable = true;
       settings = {
-          {
-            git_protocol = "ssh";
-            prompt = "enabled";
-            aliases = {
-              co = "pr checkout";
-              pv = "pr view";
-            };
-          };
-        };
-    };
+         git_protocol = "ssh";
+         prompt = "enabled";
+         aliases = {
+           co = "pr checkout";
+           pv = "pr view";
+         };
+      };
+  };
   # programs.starship.enable = true;
   #programs.powerline-go.enable = true;
   #programs.powerline-go.modules = [ 
