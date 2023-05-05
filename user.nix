@@ -12,7 +12,7 @@
   programs.atuin.enable = true; 
   programs.zoxide.enable = true; 
   programs.direnv.enable = true; 
-  programs.starship.enable = true;
+  # programs.starship.enable = true;
   programs.powerline-go.enable = true;
   programs.powerline-go.modules = [ 
     "host"
