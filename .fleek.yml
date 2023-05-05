@@ -64,7 +64,6 @@ packages:
     - jq
     - terraform-docs
     - powerline-fonts
-    - thttpd
 paths:
     - $HOME/bin
     - $HOME/.local/bin
