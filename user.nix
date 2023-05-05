@@ -40,6 +40,7 @@
       ];
       settings = {
         cwd-max-depth = 5; 
+        theme = "gruvbox";
       };
       pathAliases = {
           "\\~/src/HMRC" = "HMRC";
