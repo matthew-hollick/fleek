@@ -35,5 +35,8 @@
       settings = {
         cwd-max-depth = 5; 
       };
+      pathAliases = {
+          "/Users/mjh/src/HMRC" = "HMRC"
+        };
     };
 }
