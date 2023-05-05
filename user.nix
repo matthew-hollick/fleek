@@ -35,5 +35,5 @@
       settings = {
         cwd-max-depth = 5; 
       };
-    }
+    };
 }
