@@ -25,7 +25,8 @@
   programs.powerline-go = {
       enable = true;
       modules = [
-        "host"
+        #"host"
+        "docker"
         "ssh"
         "cwd"
         "gitlite"
