@@ -66,6 +66,7 @@
     pkgs.stdenv
     pkgs.jq
     pkgs.terraform-docs
+    pkgs.powerline-fonts
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
