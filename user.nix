@@ -27,11 +27,16 @@
       modules = [
         #"host"
         "docker"
+        "docker-context"
         "ssh"
         "cwd"
-        "gitlite"
+        "git"
         "jobs"
         "exit"
+        "direnv"
+        "rbenv"
+        "terraform-workspace"
+        "venv"
       ];
       settings = {
         cwd-max-depth = 5; 
