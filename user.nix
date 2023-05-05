@@ -11,7 +11,23 @@
   #programs.bat.enable = true; 
   programs.atuin.enable = true; 
   programs.zoxide.enable = true; 
-  programs.direnv.enable = true; 
+  programs.direnv = {
+    enable = true;
+    enableZshIntegration = true;
+  };
+  programs.gh = {
+      enable = true;
+      settings = {
+          {
+            git_protocol = "ssh";
+            prompt = "enabled";
+            aliases = {
+              co = "pr checkout";
+              pv = "pr view";
+            };
+          };
+        };
+    };
   # programs.starship.enable = true;
   #programs.powerline-go.enable = true;
   #programs.powerline-go.modules = [ 
