@@ -15,6 +15,10 @@
     enable = true;
     enableZshIntegration = true;
   };
+  programs.git = {
+    enable = true;
+    diff-so-fancy.enable = true;
+  };
   programs.gh = {
       enable = true;
       settings = {
