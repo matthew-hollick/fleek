@@ -3,6 +3,7 @@ aliases:
     fleeks: cd /Users/mjh/.local/share/fleek
     gitsub: git submodule update --init --recursive
     ls: exa
+    awssso: op item get 'Amazon - HMRC' --otp | assume-role
 bling: none
 ejected: false
 flakedir: .local/share/fleek
