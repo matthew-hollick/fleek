@@ -64,6 +64,7 @@ packages:
     - jq
     - terraform-docs
     - powerline-fonts
+    - darkhttpd
 paths:
     - $HOME/bin
     - $HOME/.local/bin
