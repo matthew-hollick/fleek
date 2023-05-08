@@ -65,6 +65,9 @@ packages:
     - terraform-docs
     - powerline-fonts
     - darkhttpd
+    - kafkactl
+    - kcli
+    - kafkacat
 paths:
     - $HOME/bin
     - $HOME/.local/bin
