@@ -67,6 +67,7 @@ packages:
     - darkhttpd
     - kafkactl
     - kafkacat
+    - graphviz
 paths:
     - $HOME/bin
     - $HOME/.local/bin

@@ -70,6 +70,7 @@
     pkgs.darkhttpd
     pkgs.kafkactl
     pkgs.kafkacat
+    pkgs.graphviz
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
