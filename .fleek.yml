@@ -68,6 +68,8 @@ packages:
     - kafkactl
     - kafkacat
     - graphviz
+    - curl
+    - rsync
 paths:
     - $HOME/bin
     - $HOME/.local/bin

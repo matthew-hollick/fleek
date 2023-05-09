@@ -71,6 +71,8 @@
     pkgs.kafkactl
     pkgs.kafkacat
     pkgs.graphviz
+    pkgs.curl
+    pkgs.rsync
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
