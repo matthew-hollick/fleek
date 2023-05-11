@@ -19,8 +19,6 @@ $ apply-$(hostname)
 ```
 
 Your actual aliases are listed below:
-    awssso = "op item get 'Amazon - HMRC' --otp | assume-role";
-
     cdsrc = "cd ~/src/HMRC";
 
     fleeks = "cd /Users/mjh/.local/share/fleek";

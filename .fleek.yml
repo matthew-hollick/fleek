@@ -1,5 +1,4 @@
 aliases:
-    awssso: op item get 'Amazon - HMRC' --otp | assume-role
     cdsrc: cd ~/src/HMRC
     fleeks: cd /Users/mjh/.local/share/fleek
     gitsub: git submodule update --init --recursive
@@ -71,7 +70,6 @@ packages:
     - curl
     - rsync
     - btop
-    - less
 paths:
     - $HOME/bin
     - $HOME/.local/bin
