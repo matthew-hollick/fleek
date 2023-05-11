@@ -70,6 +70,7 @@ packages:
     - graphviz
     - curl
     - rsync
+    - btop
 paths:
     - $HOME/bin
     - $HOME/.local/bin
