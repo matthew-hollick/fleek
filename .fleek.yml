@@ -71,6 +71,7 @@ packages:
     - curl
     - rsync
     - btop
+    - less
 paths:
     - $HOME/bin
     - $HOME/.local/bin
