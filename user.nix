@@ -58,7 +58,6 @@
       ];
       settings = {
         cwd-max-depth = 5; 
-        theme = "solarized-dark16";
       };
       pathAliases = {
           "\\~/src/HMRC" = "HMRC";
