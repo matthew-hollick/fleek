@@ -74,6 +74,7 @@
     pkgs.curl
     pkgs.rsync
     pkgs.btop
+    pkgs.raycast
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })

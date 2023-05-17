@@ -70,6 +70,7 @@ packages:
     - curl
     - rsync
     - btop
+    - raycast
 paths:
     - $HOME/bin
     - $HOME/.local/bin
