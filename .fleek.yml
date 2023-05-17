@@ -71,6 +71,8 @@ packages:
     - rsync
     - btop
     - raycast
+    - socat
+    - netcat
 paths:
     - $HOME/bin
     - $HOME/.local/bin
