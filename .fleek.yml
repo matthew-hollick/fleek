@@ -74,7 +74,6 @@ packages:
     - socat
     - netcat
     - remarkable-mouse
-    - jfrog-cli
 paths:
     - $HOME/bin
     - $HOME/.local/bin
