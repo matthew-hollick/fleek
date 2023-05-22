@@ -73,7 +73,6 @@ packages:
     - raycast
     - socat
     - netcat
-    - remarkable-mouse
 paths:
     - $HOME/bin
     - $HOME/.local/bin

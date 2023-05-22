@@ -77,7 +77,6 @@
     pkgs.raycast
     pkgs.socat
     pkgs.netcat
-    pkgs.remarkable-mouse
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
