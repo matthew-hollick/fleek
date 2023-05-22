@@ -73,7 +73,6 @@ packages:
     - raycast
     - socat
     - netcat
-    - xmind
 paths:
     - $HOME/bin
     - $HOME/.local/bin
