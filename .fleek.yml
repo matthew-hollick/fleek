@@ -74,7 +74,6 @@ packages:
     - socat
     - netcat
     - remarkable-mouse
-    - xmind
 paths:
     - $HOME/bin
     - $HOME/.local/bin
