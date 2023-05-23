@@ -73,6 +73,7 @@ packages:
     - raycast
     - socat
     - netcat
+    - go-task
 paths:
     - $HOME/bin
     - $HOME/.local/bin
