@@ -74,6 +74,7 @@ packages:
     - socat
     - netcat
     - go-task
+    - pipx
 paths:
     - $HOME/bin
     - $HOME/.local/bin
