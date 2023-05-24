@@ -76,6 +76,7 @@ packages:
     - go-task
     - pipx
     - obsidian
+    - zap
 paths:
     - $HOME/bin
     - $HOME/.local/bin
