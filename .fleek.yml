@@ -75,6 +75,7 @@ packages:
     - netcat
     - go-task
     - pipx
+    - obsidian
 paths:
     - $HOME/bin
     - $HOME/.local/bin
