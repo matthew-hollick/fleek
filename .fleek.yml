@@ -76,7 +76,7 @@ packages:
     - go-task
     - pipx
     - obsidian
-    - zap
+    - ctop
 paths:
     - $HOME/bin
     - $HOME/.local/bin

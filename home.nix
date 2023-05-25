@@ -80,7 +80,7 @@
     pkgs.go-task
     pkgs.pipx
     pkgs.obsidian
-    pkgs.zap
+    pkgs.ctop
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
