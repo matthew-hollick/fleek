@@ -2,6 +2,17 @@
   # This file will never be modified by fleek
   # configs mentioned here must be listed in ~/fleek.yml #programs array or you will get errors
 
+  home.file = {
+    ".tmux.conf" = {
+     text = ''
+     set-option -g default-shell /run/current-system/sw/bin/fish
+     set-window-option -g mode-keys vi
+     set -g default-terminal "screen-256color"
+     set -ga terminal-overrides ',screen-256color:Tc'
+     '';
+    };
+  };
+
   programs.neovim = {
     viAlias = true;
     vimAlias = true;
