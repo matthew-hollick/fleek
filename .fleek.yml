@@ -78,6 +78,7 @@ packages:
     - obsidian
     - ctop
     - tldr
+    - iterm2
 paths:
     - $HOME/bin
     - $HOME/.local/bin

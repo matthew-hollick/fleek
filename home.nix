@@ -82,6 +82,7 @@
     pkgs.obsidian
     pkgs.ctop
     pkgs.tldr
+    pkgs.iterm2
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
