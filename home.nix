@@ -81,6 +81,7 @@
     pkgs.pipx
     pkgs.obsidian
     pkgs.ctop
+    pkgs.tldr
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
