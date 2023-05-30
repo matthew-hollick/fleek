@@ -83,6 +83,7 @@
     pkgs.ctop
     pkgs.tldr
     pkgs.iterm2
+    pkgs.maven
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })

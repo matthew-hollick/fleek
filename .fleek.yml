@@ -79,6 +79,7 @@ packages:
     - ctop
     - tldr
     - iterm2
+    - maven
 paths:
     - $HOME/bin
     - $HOME/.local/bin
