@@ -80,6 +80,7 @@ packages:
     - tldr
     - iterm2
     - maven
+    - jmeter
 paths:
     - $HOME/bin
     - $HOME/.local/bin
