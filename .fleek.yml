@@ -82,6 +82,7 @@ packages:
     - maven
     - jmeter
     - expect
+    - kind
 paths:
     - $HOME/bin
     - $HOME/.local/bin
