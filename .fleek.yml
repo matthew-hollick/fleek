@@ -81,6 +81,7 @@ packages:
     - iterm2
     - maven
     - jmeter
+    - expect
 paths:
     - $HOME/bin
     - $HOME/.local/bin
