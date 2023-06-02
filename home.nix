@@ -87,6 +87,7 @@
     pkgs.jmeter
     pkgs.expect
     pkgs.kind
+    pkgs.nikto
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })

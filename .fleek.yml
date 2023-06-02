@@ -83,6 +83,7 @@ packages:
     - jmeter
     - expect
     - kind
+    - nikto
 paths:
     - $HOME/bin
     - $HOME/.local/bin
