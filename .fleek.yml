@@ -48,7 +48,6 @@ packages:
     - podman-tui
     - bat
     - present
-    - get_iplayer
     - ffmpeg_6
     - R
     - bash-my-aws

@@ -52,7 +52,6 @@
     pkgs.podman-tui
     pkgs.bat
     pkgs.present
-    pkgs.get_iplayer
     pkgs.ffmpeg_6
     pkgs.R
     pkgs.bash-my-aws
