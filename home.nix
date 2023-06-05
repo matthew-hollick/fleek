@@ -87,6 +87,7 @@
     pkgs.expect
     pkgs.kind
     pkgs.nikto
+    pkgs.aws-mfa
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })

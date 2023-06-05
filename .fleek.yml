@@ -83,6 +83,7 @@ packages:
     - expect
     - kind
     - nikto
+    - aws-mfa
 paths:
     - $HOME/bin
     - $HOME/.local/bin
