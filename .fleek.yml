@@ -84,6 +84,7 @@ packages:
     - kind
     - nikto
     - aws-mfa
+    - wezterm
 paths:
     - $HOME/bin
     - $HOME/.local/bin
