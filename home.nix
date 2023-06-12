@@ -90,6 +90,7 @@
     pkgs.aws-mfa
     pkgs.wezterm
     pkgs.dropbear
+    pkgs.mosh
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })

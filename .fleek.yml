@@ -86,6 +86,7 @@ packages:
     - aws-mfa
     - wezterm
     - dropbear
+    - mosh
 paths:
     - $HOME/bin
     - $HOME/.local/bin
