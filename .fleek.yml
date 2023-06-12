@@ -87,6 +87,7 @@ packages:
     - wezterm
     - mosh
     - mr
+    - pwgen
 paths:
     - $HOME/bin
     - $HOME/.local/bin
