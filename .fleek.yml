@@ -85,6 +85,7 @@ packages:
     - nikto
     - aws-mfa
     - wezterm
+    - dropbear
 paths:
     - $HOME/bin
     - $HOME/.local/bin
