@@ -85,7 +85,6 @@ packages:
     - nikto
     - aws-mfa
     - wezterm
-    - dropbear
     - mosh
 paths:
     - $HOME/bin

@@ -89,7 +89,6 @@
     pkgs.nikto
     pkgs.aws-mfa
     pkgs.wezterm
-    pkgs.dropbear
     pkgs.mosh
     # Fleek Bling
     pkgs.git
