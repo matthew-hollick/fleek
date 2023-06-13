@@ -92,6 +92,7 @@
     pkgs.mosh
     pkgs.mr
     pkgs.pwgen
+    pkgs.tmux-cssh
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
