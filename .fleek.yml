@@ -88,6 +88,7 @@ packages:
     - mosh
     - mr
     - pwgen
+    - minidlna
 paths:
     - $HOME/bin
     - $HOME/.local/bin

@@ -92,6 +92,7 @@
     pkgs.mosh
     pkgs.mr
     pkgs.pwgen
+    pkgs.minidlna
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
