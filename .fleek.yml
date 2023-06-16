@@ -88,7 +88,6 @@ packages:
     - mosh
     - mr
     - pwgen
-    - tmux-cssh
 paths:
     - $HOME/bin
     - $HOME/.local/bin
