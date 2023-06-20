@@ -88,8 +88,6 @@
     pkgs.kind
     pkgs.nikto
     pkgs.aws-mfa
-    pkgs.wezterm
-    pkgs.mosh
     pkgs.mr
     pkgs.pwgen
     # Fleek Bling

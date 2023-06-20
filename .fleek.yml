@@ -84,8 +84,6 @@ packages:
     - kind
     - nikto
     - aws-mfa
-    - wezterm
-    - mosh
     - mr
     - pwgen
 paths:
