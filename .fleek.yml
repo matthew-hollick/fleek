@@ -65,7 +65,6 @@ packages:
     - darkhttpd
     - kafkactl
     - kafkacat
-    - graphviz
     - curl
     - rsync
     - btop
@@ -79,12 +78,10 @@ packages:
     - tldr
     - maven
     - jmeter
-    - expect
     - kind
     - nikto
     - aws-mfa
     - mr
-    - pwgen
 paths:
     - $HOME/bin
     - $HOME/.local/bin
