@@ -52,8 +52,6 @@
     pkgs.podman-tui
     pkgs.bat
     pkgs.present
-    pkgs.ffmpeg_6
-    pkgs.R
     pkgs.bash-my-aws
     pkgs.awstats
     pkgs.aws-rotate-key
@@ -81,7 +79,6 @@
     pkgs.obsidian
     pkgs.ctop
     pkgs.tldr
-    pkgs.iterm2
     pkgs.maven
     pkgs.jmeter
     pkgs.expect

@@ -50,8 +50,6 @@ packages:
     - podman-tui
     - bat
     - present
-    - ffmpeg_6
-    - R
     - bash-my-aws
     - awstats
     - aws-rotate-key
@@ -79,7 +77,6 @@ packages:
     - obsidian
     - ctop
     - tldr
-    - iterm2
     - maven
     - jmeter
     - expect
