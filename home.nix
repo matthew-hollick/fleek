@@ -67,7 +67,6 @@
     pkgs.darkhttpd
     pkgs.kafkactl
     pkgs.kafkacat
-    pkgs.graphviz
     pkgs.curl
     pkgs.rsync
     pkgs.btop
@@ -81,12 +80,10 @@
     pkgs.tldr
     pkgs.maven
     pkgs.jmeter
-    pkgs.expect
     pkgs.kind
     pkgs.nikto
     pkgs.aws-mfa
     pkgs.mr
-    pkgs.pwgen
     # Fleek Bling
     pkgs.git
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
