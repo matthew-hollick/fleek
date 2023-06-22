@@ -24,7 +24,6 @@ packages:
     - awsls
     - steampipe
     - python3
-    - go
     - silver-searcher
     - atuin
     - tfswitch
@@ -79,7 +78,6 @@ packages:
     - maven
     - jmeter
     - kind
-    - nikto
     - aws-mfa
     - mr
 paths:

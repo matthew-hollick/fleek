@@ -26,7 +26,6 @@
     pkgs.awsls
     pkgs.steampipe
     pkgs.python3
-    pkgs.go
     pkgs.silver-searcher
     pkgs.atuin
     pkgs.tfswitch
@@ -81,7 +80,6 @@
     pkgs.maven
     pkgs.jmeter
     pkgs.kind
-    pkgs.nikto
     pkgs.aws-mfa
     pkgs.mr
     # Fleek Bling
