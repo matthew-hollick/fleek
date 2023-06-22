@@ -35,14 +35,11 @@
           ./aliases.nix
           ./programs.nix
           # Host Specific configs
-          ./trillian/trillian.nix
-          ./trillian/user.nix
+          ./trillian/mjh.nix
+          ./trillian/custom.nix
           # self-manage fleek
           ({
            nixpkgs.overlays = [];
-           home.packages = [
-            fleek.packages.aarch64-darwin.default
-          ];
           })
 
         ];
