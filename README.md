@@ -19,10 +19,4 @@ $ apply-$(hostname)
 ```
 
 Your actual aliases are listed below:
-    cdsrc = "cd ~/src/HMRC";
-
-    fleeks = "cd /Users/mjh/.local/share/fleek";
-
-    gitsub = "git submodule update --init --recursive";
-
-    ls = "exa";
+    fleeks = "cd ~/.local/share/fleek";

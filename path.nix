@@ -3,8 +3,5 @@
  home.sessionPath = [ 
     "$HOME/bin"
     "$HOME/.local/bin"
-    "/opt/homebrew/bin"
-    "/opt/homebrew/sbin"
-    "$HOME/Library/Python/3.9/bin"
  ];
 }

@@ -20,70 +20,14 @@
   home.packages = [
     # user selected packages
     pkgs.helix
-    pkgs.sbt
-    pkgs.aws-assume-role
-    pkgs.awslogs
-    pkgs.awsls
-    pkgs.steampipe
-    pkgs.python3
-    pkgs.silver-searcher
-    pkgs.atuin
-    pkgs.tfswitch
-    pkgs.virtualenv
-    pkgs.micromamba
-    pkgs.pew
-    pkgs.tgswitch
-    pkgs.kubecolor
-    pkgs.kubectl
-    pkgs.kubectl-tree
-    pkgs.krew
-    pkgs.kubectl-gadget
-    pkgs.kubectl-evict-pod
-    pkgs.clusterctl
-    pkgs.talosctl
-    pkgs.nmap
-    pkgs.pre-commit
-    pkgs.docker
-    pkgs.docker-compose
-    pkgs.xquartz
-    pkgs.podman
-    pkgs.podman-compose
-    pkgs.podman-tui
-    pkgs.bat
-    pkgs.present
-    pkgs.bash-my-aws
-    pkgs.awstats
-    pkgs.aws-rotate-key
-    pkgs.awscli2
-    pkgs.gh
-    pkgs.tfsec
-    pkgs.nmap-formatter
-    pkgs.nmap-unfree
-    pkgs.stdenv
-    pkgs.jq
-    pkgs.terraform-docs
-    pkgs.powerline-fonts
-    pkgs.darkhttpd
-    pkgs.kafkactl
-    pkgs.kafkacat
-    pkgs.curl
-    pkgs.rsync
-    pkgs.btop
-    pkgs.raycast
-    pkgs.socat
-    pkgs.netcat
-    pkgs.go-task
-    pkgs.pipx
-    pkgs.obsidian
-    pkgs.ctop
-    pkgs.tldr
-    pkgs.maven
-    pkgs.jmeter
-    pkgs.kind
-    pkgs.aws-mfa
-    pkgs.mr
     # Fleek Bling
     pkgs.git
+    pkgs.htop
+    pkgs.github-cli
+    pkgs.glab
+    pkgs.fzf
+    pkgs.ripgrep
+    pkgs.vscode
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
   ];
   fonts.fontconfig.enable = true; 

@@ -1,9 +1,6 @@
 aliases:
-    cdsrc: cd ~/src/HMRC
-    fleeks: cd /Users/mjh/.local/share/fleek
-    gitsub: git submodule update --init --recursive
-    ls: exa
-bling: none
+    fleeks: cd ~/.local/share/fleek
+bling: default
 blocklist: []
 byo_git: false
 ejected: false
@@ -13,92 +10,23 @@ git:
     autopull: true
     autopush: true
     enabled: true
-min_version: ""
+min_version: 0.8.4
 name: Fleek Configuration
 overlays: {}
 packages:
     - helix
-    - sbt
-    - aws-assume-role
-    - awslogs
-    - awsls
-    - steampipe
-    - python3
-    - silver-searcher
-    - atuin
-    - tfswitch
-    - virtualenv
-    - micromamba
-    - pew
-    - tgswitch
-    - kubecolor
-    - kubectl
-    - kubectl-tree
-    - krew
-    - kubectl-gadget
-    - kubectl-evict-pod
-    - clusterctl
-    - talosctl
-    - nmap
-    - pre-commit
-    - docker
-    - docker-compose
-    - xquartz
-    - podman
-    - podman-compose
-    - podman-tui
-    - bat
-    - present
-    - bash-my-aws
-    - awstats
-    - aws-rotate-key
-    - awscli2
-    - gh
-    - tfsec
-    - nmap-formatter
-    - nmap-unfree
-    - stdenv
-    - jq
-    - terraform-docs
-    - powerline-fonts
-    - darkhttpd
-    - kafkactl
-    - kafkacat
-    - curl
-    - rsync
-    - btop
-    - raycast
-    - socat
-    - netcat
-    - go-task
-    - pipx
-    - obsidian
-    - ctop
-    - tldr
-    - maven
-    - jmeter
-    - kind
-    - aws-mfa
-    - mr
 paths:
     - $HOME/bin
     - $HOME/.local/bin
-    - /opt/homebrew/bin
-    - /opt/homebrew/sbin
-    - $HOME/Library/Python/3.9/bin
 programs:
     - dircolors
-    - exa
-    - zoxide
-    - direnv
-    - neovim
 shell: zsh
 systems:
     - arch: aarch64
       hostname: trillian
       os: darwin
       username: mjh
-track: ""
+track: nixos-unstable
 unfree: true
 users:
     - email: 22219356+matthew-hollick@users.noreply.github.com
