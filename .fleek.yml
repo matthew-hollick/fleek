@@ -31,6 +31,6 @@ unfree: true
 users:
     - email: 22219356+matthew-hollick@users.noreply.github.com
       name: Matthew Hollick
-      ssh_private_key_file: ~/.ssh/hedgehog
-      ssh_public_key_file: ~/.ssh/hedgehog.pub
+      ssh_private_key_file: ~/.ssh/id_hmrc_github
+      ssh_public_key_file: ~/.ssh/id_hmrc_github.pub
       username: mjh

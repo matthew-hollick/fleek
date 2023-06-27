@@ -18,8 +18,8 @@
         };
 
         signing = {
-            key = "~/.ssh/hedgehog";
-            signByDefault = builtins.stringLength "~/.ssh/hedgehog" > 0;
+            key = "~/.ssh/id_hmrc_github";
+            signByDefault = builtins.stringLength "~/.ssh/id_hmrc_github" > 0;
         };
 
         lfs.enable = true;
