@@ -1,25 +1,135 @@
 aliases:
     fleeks: cd ~/.local/share/fleek
-bling: default
-blocklist: []
-byo_git: false
+bling: none
+blocklist:
+    - mesa
+byo_git: true
 ejected: false
 flakedir: .local/share/fleek
 git:
-    autocommit: true
-    autopull: true
-    autopush: true
-    enabled: true
+    autocommit: false
+    autopull: false
+    autopush: false
+    enabled: false
 min_version: 0.8.4
 name: Fleek Configuration
 overlays: {}
 packages:
     - helix
+    - sbt
+    - aws-assume-role
+    - awslogs
+    - awsls
+    - steampipe
+    - python3
+    - go
+    - silver-searcher
+    - atuin
+    - tfswitch
+    - virtualenv
+    - micromamba
+    - pew
+    - tgswitch
+    - kubecolor
+    - kubectl
+    - kubectl-tree
+    - krew
+    - kubectl-gadget
+    - kubectl-evict-pod
+    - clusterctl
+    - talosctl
+    - nmap
+    - pre-commit
+    - docker
+    - docker-compose
+    - podman
+    - podman-compose
+    - podman-tui
+    - bat
+    - present
+    - ffmpeg_6
+    - R
+    - bash-my-aws
+    - awstats
+    - aws-rotate-key
+    - awscli2
+    - gh
+    - tfsec
+    - nmap-formatter
+    - nmap-unfree
+    - stdenv
+    - jq
+    - terraform-docs
+    - powerline-fonts
+    - darkhttpd
+    - kafkactl
+    - kafkacat
+    - graphviz
+    - curl
+    - rsync
+    - btop
+    - socat
+    - netcat
+    - go-task
+    - pipx
+    - obsidian
+    - ctop
+    - tldr
+    - iterm2
+    - maven
+    - jmeter
+    - expect
+    - kind
+    - nikto
+    - aws-mfa
+    - mr
+    - pwgen
+    - cachix
+    - discord
+    - asciidoc
+    - pandoc
+    - asciidoctorj
+    - vscode
+    - postman
+    - rename
+    - icdiff
+    - lftp
+    - hugo
+    - nodejs
+    - poetry
+    - htop
+    - tflint
+    - mtr
+    - lima
+    - gnused
+    - gawk
+    - jsawk
+    - gnuplot
+    - jpegoptim
+    - jpegrescan
+    - tree
+    - jdk
+    - python310Packages.jupyter
+    - imagemagick
+    - wget
+    - python310Packages.tkinter
+    - packer
+    - pdftk
+    - texlive.combined.scheme-medium
+    - oh-my-zsh
+    - _1password-gui
+    - _1password
+    - units
+    - aws-vault
 paths:
     - $HOME/bin
     - $HOME/.local/bin
 programs:
     - dircolors
+    - exa
+    - zoxide
+    - direnv
+    - neovim
 shell: zsh
 systems:
     - arch: aarch64
