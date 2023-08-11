@@ -125,6 +125,7 @@
     pkgs._1password
     pkgs.units
     pkgs.aws-vault
+    pkgs.zoom-us
     # Fleek Bling
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
   ];

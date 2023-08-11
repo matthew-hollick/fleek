@@ -121,6 +121,7 @@ packages:
     - _1password
     - units
     - aws-vault
+    - zoom-us
 paths:
     - $HOME/bin
     - $HOME/.local/bin
