@@ -24,7 +24,6 @@
     pkgs.aws-assume-role
     pkgs.awslogs
     pkgs.awsls
-    pkgs.steampipe
     pkgs.python3
     pkgs.go
     pkgs.silver-searcher
@@ -100,7 +99,6 @@
     pkgs.lftp
     pkgs.hugo
     pkgs.nodejs
-    pkgs.poetry
     pkgs.htop
     pkgs.tflint
     pkgs.mtr
@@ -126,6 +124,10 @@
     pkgs.units
     pkgs.aws-vault
     pkgs.zoom-us
+    pkgs.clickhouse
+    pkgs.pngcrush
+    pkgs.steampipe
+    pkgs.po4a
     # Fleek Bling
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
   ];

@@ -20,7 +20,6 @@ packages:
     - aws-assume-role
     - awslogs
     - awsls
-    - steampipe
     - python3
     - go
     - silver-searcher
@@ -96,7 +95,6 @@ packages:
     - lftp
     - hugo
     - nodejs
-    - poetry
     - htop
     - tflint
     - mtr
@@ -122,6 +120,10 @@ packages:
     - units
     - aws-vault
     - zoom-us
+    - clickhouse
+    - pngcrush
+    - steampipe
+    - po4a
 paths:
     - $HOME/bin
     - $HOME/.local/bin

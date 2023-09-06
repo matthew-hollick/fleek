@@ -10,6 +10,14 @@
      set -ga terminal-overrides ',screen-256color:Tc'
      '';
     };
+    ".docker/config.json" = {
+        text = ''
+{
+    "auths": {},
+    "currentContext": "desktop-linux"
+}
+        '';
+    };
     ".tool-versions" = {
         text = ''
         pre-commit 2.17.0
@@ -18,6 +26,7 @@
         terraform-docs 0.16.0
         sbt 1.5.2
         python 3.10.4
+        poetry 1.6.1
         yarn 1.22.19
         gradle 7.5.1
         terraform 1.2.9
