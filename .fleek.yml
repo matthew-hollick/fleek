@@ -1,5 +1,6 @@
 aliases:
     fleeks: cd ~/.local/share/fleek
+allow_broken: false
 bling: none
 blocklist:
     - mesa
@@ -124,18 +125,23 @@ packages:
     - pngcrush
     - steampipe
     - po4a
+    - bb
+    - colima
+    - fx
+    - visualvm
 paths:
     - $HOME/bin
     - $HOME/.local/bin
 programs:
     - dircolors
-    - exa
+    - eza
     - zoxide
     - direnv
     - neovim
 shell: zsh
 systems:
     - arch: aarch64
+      home: ""
       hostname: trillian
       os: darwin
       username: mjh

@@ -10,14 +10,6 @@
      set -ga terminal-overrides ',screen-256color:Tc'
      '';
     };
-    ".docker/config.json" = {
-        text = ''
-{
-    "auths": {},
-    "currentContext": "desktop-linux"
-}
-        '';
-    };
     ".tool-versions" = {
         text = ''
         pre-commit 2.17.0
@@ -46,7 +38,7 @@
     vimAlias = true;
   };
 
-  programs.exa.enable = true; 
+  programs.eza.enable = true; 
   #programs.bat.enable = true; 
   programs.atuin.enable = true; 
   programs.zoxide.enable = true; 

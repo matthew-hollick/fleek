@@ -9,6 +9,7 @@
       # Workaround for https://github.com/nix-community/home-manager/issues/2942
       allowUnfreePredicate = (_: true);
       
+      
     };
   };
 
@@ -128,6 +129,10 @@
     pkgs.pngcrush
     pkgs.steampipe
     pkgs.po4a
+    pkgs.bb
+    pkgs.colima
+    pkgs.fx
+    pkgs.visualvm
     # Fleek Bling
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
   ];
