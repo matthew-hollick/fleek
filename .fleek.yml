@@ -1,6 +1,8 @@
 aliases:
     fleeks: cd ~/.local/share/fleek
+    otp: op item get 'Amazon - HMRC' --otp
 allow_broken: false
+auto_gc: false
 bling: none
 blocklist:
     - mesa
@@ -129,6 +131,9 @@ packages:
     - colima
     - fx
     - visualvm
+    - copilot-cli
+    - lzma
+    - commonsCompress
 paths:
     - $HOME/bin
     - $HOME/.local/bin
@@ -144,6 +149,12 @@ systems:
       home: ""
       hostname: trillian
       os: darwin
+      user:
+        email: 22219356+matthew-hollick@users.noreply.github.com
+        name: Matthew Hollick
+        ssh_private_key_file: ~/.ssh/id_hmrc_github
+        ssh_public_key_file: ~/.ssh/id_hmrc_github.pub
+        username: mjh
       username: mjh
 track: nixos-unstable
 unfree: true

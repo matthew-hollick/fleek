@@ -133,6 +133,9 @@
     pkgs.colima
     pkgs.fx
     pkgs.visualvm
+    pkgs.copilot-cli
+    pkgs.lzma
+    pkgs.commonsCompress
     # Fleek Bling
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
   ];

@@ -20,3 +20,5 @@ $ apply-$(hostname)
 
 Your actual aliases are listed below:
     fleeks = "cd ~/.local/share/fleek";
+
+    otp = "op item get 'Amazon - HMRC' --otp";
