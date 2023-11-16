@@ -35,13 +35,11 @@
     pkgs.pew
     pkgs.tgswitch
     pkgs.kubecolor
-    pkgs.kubectl
     pkgs.kubectl-tree
     pkgs.krew
     pkgs.kubectl-gadget
     pkgs.kubectl-evict-pod
     pkgs.clusterctl
-    pkgs.talosctl
     pkgs.nmap
     pkgs.pre-commit
     pkgs.docker
@@ -90,11 +88,9 @@
     pkgs.pwgen
     pkgs.cachix
     pkgs.discord
-    pkgs.asciidoc
     pkgs.pandoc
     pkgs.asciidoctorj
     pkgs.vscode
-    pkgs.postman
     pkgs.rename
     pkgs.icdiff
     pkgs.lftp
@@ -136,6 +132,13 @@
     pkgs.copilot-cli
     pkgs.lzma
     pkgs.commonsCompress
+    pkgs.httpie
+    pkgs.lynx
+    pkgs.clamav
+    pkgs.xz
+    pkgs.pixz
+    pkgs.automake
+    pkgs.autoconf
     # Fleek Bling
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
   ];

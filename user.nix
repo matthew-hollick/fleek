@@ -27,6 +27,8 @@
         talosctl 1.3.6
         clusterctl 1.4.1
         terraform-validator 3.1.3
+	kubectl 1.28.3
+	helm 3.13.1
         '';
       };
   };
@@ -34,8 +36,15 @@
   home.sessionPath = ["$HOME/.local/bin"];
 
   programs.neovim = {
+    enable = true;
     viAlias = true;
     vimAlias = true;
+    coc = {
+      enable = true;
+    };
+    plugins = [
+      pkgs.vimPlugins.nvchad
+    ];
   };
 
   programs.eza.enable = true; 
